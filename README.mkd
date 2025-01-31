@@ -4,7 +4,7 @@ FlappySwift is an implementation of the classic Flappy Bird game developed for i
 
 ## 📸 Project Preview
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/0AxrtU9"  ><a href="//imgur.com/a/0AxrtU9">flappyswift-github</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![FlappySwift](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh2aXB4Zzg3aml5M3ZrOHdtNWcwZ2Zia3VxM2gzeW4xdGtocGFlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/arClGFWu1eOYfMtEMJ/giphy.gif)
 
 ## 🎮 Features
 
