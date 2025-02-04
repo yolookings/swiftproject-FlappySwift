@@ -8,7 +8,7 @@ FlappySwift is an implementation of the classic Flappy Bird game developed for i
 
 ## 🎮 Features
 
-- **SpriteKit-based gameplay**
+- **SpriteKit-based** gameplay
 - Bird animation using sprite sheet
 - Physics and collision system with **PhysicsBody**
 - Dynamic background scrolling
